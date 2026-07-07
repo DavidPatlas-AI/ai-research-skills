@@ -1,5 +1,7 @@
 # AI Research `Skills` Library
 
+> **Mirror notice:** This is a copy of [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs), kept here for personal/local reference. All credit for this library belongs to **Orchestra Research** (orchestra-research.com) — see their [blog post](https://www.orchestra-research.com/perspectives/ai-research-skills) and [npm package](https://www.npmjs.com/package/@orchestra-research/ai-research-skills). This mirror is not an original work by this account.
+
 > **The most comprehensive open-source skills library enabling AI agents to autonomously conduct AI research — from idea to paper**
 
 <p align="center">
